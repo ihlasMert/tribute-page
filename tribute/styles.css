@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-transform: capitalize;
+  box-sizing: border-box;
+}
+.container {
+  background-color: #e5e5fe;
+  min-height: 100vh;
+  border: 10px solid brown;
+}
+.contnet {
+  max-width: 900px;
+  margin: 0 auto;
+}
